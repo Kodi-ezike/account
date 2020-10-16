@@ -120,6 +120,7 @@ span{
 .account-btn{
     height: 50px;
     font-size: 18px;
+    width: 345px;
 }
 
 }
@@ -133,7 +134,7 @@ span{
     padding: 15px;
 }
 .account-btn{
-    width: 75%;
+    width: 285px;
     height: 40px;
     font-size: 18px;
 }
@@ -151,7 +152,7 @@ span{
     line-height: 20px;
 }
 .account-btn{
-    width: 83%;
+    width: 265px;
 }
 
 }
